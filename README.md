@@ -10,13 +10,13 @@ Traditional emulation designers often focus solely on a tube's  nominal electric
 
 In contrast, this program not only recreates the operational behavior of a 300B tube functioning within a complete circuit, but also captures  the coloration imparted by the output transformer and capacitors,  allowing users to genuinely experience legendary tube sound at a  physical level.
 
-![Manley Neo-Classic 300B Preamplifier](pictures\Manley Neo-Classic 300B Preamplifier.jpg)
+![Manley Neo-Classic 300B Preamplifier](./pictures/Manley.jpg)
 
 *Fig.1 Manley Neo-Classic 300B Preamplifier*
 
 
 
-![APX555B](pictures\APX555B.jpg)
+![APX555B](./pictures/APX555B.jpg)
 
 *Fig. 2 Audio Precision APX555 analyzer*
 
@@ -113,6 +113,7 @@ https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip
 请点击程序的“监听”，确保程序的“直通”按钮没有亮起。如果“直通”按钮亮起了，则程序算法不生效。
 
 您可以播放一段1khz的纯音信号来测试程序，可以很容易听出变化。
+
 
 
 
