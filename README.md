@@ -65,6 +65,28 @@ If still not resolved, navigate to:
 
 You may test the processing effect by playing a 1kHz pure tone signal, where the difference should be clearly audible.
 
+
+
+# Acknowledgments
+
+AmpTube300B is made possible by the following open-source projects and resources: 
+
+**[Qt Framework](https://www.qt.io/)**
+
+**[PortAudio](http://www.portaudio.com/)** 
+
+**[KissFFT](https://github.com/mborgerding/kissfft)** 
+
+The 300B tube emulation logic is adapted from Moondrop's original measurement and development.
+
+This software requires VB-CABLE to route system audio into the processor. VB-Audio Virtual Cable is a product of VB-Audio Software.
+
+
+
+# License
+
+AmpTube300B is licensed under the [MIT License](LICENSE).
+
 # 一、程序介绍
 
 与其他模拟电子管的程序相比，本程序的优点在于**基于真正的Manley 300B电子管前级放大器进行基于科学测量的物理建模**，并将这个前级放大器的输出表现视为一个整体。
@@ -113,6 +135,7 @@ https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip
 请点击程序的“监听”，确保程序的“直通”按钮没有亮起。如果“直通”按钮亮起了，则程序算法不生效。
 
 您可以播放一段1khz的纯音信号来测试程序，可以很容易听出变化。
+
 
 
 
